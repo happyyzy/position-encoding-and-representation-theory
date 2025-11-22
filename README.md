@@ -6,6 +6,14 @@
 
 这个一般的框架有助于在保证不变/等变的前提下对位置编码做可能的优化，比如qwen3-vl使用的交错式3DRoPE。
 
-github的markdown写着太恶心，pdf文件放在[这里](rope.pdf)。
+github的markdown写着太恶心，pdf文件如下：
+
+[rope](rope.pdf)
+
+[拉普拉斯位置编码](Lap.pdf)
+
+[球谐位置编码](SPE.pdf)
+
+
 
 
